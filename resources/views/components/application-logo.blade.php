@@ -1,0 +1,1 @@
+<img src="{{ asset( 'img/login/fitness.png' )}}" alt="Gym Workout icon" style="max-width: 200px">
